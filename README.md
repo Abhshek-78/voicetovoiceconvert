@@ -4,9 +4,9 @@
 It allow the user to convert his  language to anyother language ,<br>
 it take voice and it give the converted language as voice </p> 
 <br>
-Author :- Abhishek
+Author :- Abhishek<br>
 #how to install
-pip install copied link
-cd voicetovoiceconverter
-chmod +x *
-python2 voiceconvert.py
+<br>pip install copied link
+<br>cd voicetovoiceconverter
+<br>chmod +x *
+<br>python2 voiceconvert.py
