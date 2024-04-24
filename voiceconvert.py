@@ -20,7 +20,7 @@ translator=gt.Translator()
 translation=translator.translate(text,dest=outputlang)
 print(translation.text)
 converted_audio=g.gTTs(translation.text,lang=outputlang)
-convert_audio.save("hello.mp3")
+converted_audio.save("hello.mp3")
 ps.playsound("hellow.mp3")
 #remove the voice file atomatacaly  after playing
 os.remove("hellow.mp3")
